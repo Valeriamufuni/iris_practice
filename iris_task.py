@@ -98,7 +98,7 @@ def del_rows():
 #del_rows()
 
 
-#def del_rows(): # did not work
+#def del_rows(): # method did not work
 
 #	df = pd.read_csv('iris.csv')
 #	deleterows = df.drop(labels=range(-1,-16), axis=0) #delete last 15 raws
